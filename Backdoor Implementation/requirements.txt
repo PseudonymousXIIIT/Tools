@@ -1,0 +1,7 @@
+# No external dependencies required
+# Uses only Python standard library modules:
+# - socket
+# - time
+# - json
+# - subprocess
+# - os 
