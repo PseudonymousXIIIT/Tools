@@ -7,19 +7,16 @@ This directory contains a collection of various security and networking tools fo
 ### Network Security Toolkit
 - ARP Poisoning Tool
 - Port Scanner
-[View Details](Network%20Security%20Toolkit/README.md)
 
 ### Web Security Automation Suite
 - Email Scraper
 - Directory Discovery
 - Brute Force Tool
-[View Details](Web%20Security%20Automation%20Suite/README.md)
 
 ### Backdoor Implementation
 - Remote command execution
 - File transfer capabilities
 - Persistent connection
-[View Details](Backdoor%20Implementation/README.md)
 
 ## Important Notice
 
@@ -46,5 +43,6 @@ source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 2. Install required dependencies for each tool as needed
 
 ## Disclaimer
+
 
 The authors of these tools are not responsible for any misuse or damage caused by these programs. Users are solely responsible for ensuring they have proper authorization and comply with all applicable laws and regulations when using these tools. 
